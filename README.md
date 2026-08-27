@@ -1,11 +1,14 @@
-# apresentacao 
-Olá! Meu nome é Gustavo, sou uma pessoa focada em aprender e desenvolver novas habilidades
+## apresentacao 
+Olá! Meu nome é **Gustavo**, e este é o meu README De Apresentação.
+Sou uma pessoa focada em aprender e desenvolver novas habilidades
+
+## sobre mim
 -Focado em desenvolvimento e aprendizado continuo
 -Gosto de tecnologia e inovação
 -Trabalho bem em Equipe.
 -Busco transformar conhecimento em projetos práticos.
 
--Habilidades
+## -Habilidades
 HTML
 CSS
 JavaScript
@@ -15,9 +18,11 @@ Banco de Dados
 Logica de Programação
 
 Projetos
-###Projeto 1 - Meu primeiro Projeto
+### Projeto 1 - Meu primeiro Projeto
+Projeto desenvolvido para colocar em prática os primeiros conhecimentos em desenvolvimento Web. A Aplicação utiliza HTML e CSS para criar uma página estruturada, organizada e com uma interface simples e responsiva. 
 ***Tecnologias:** HTML, CSS e JavaScript
-###Projeto 2 - Sistema
+### Projeto 2 - Sistema
+Projeto desenvolvido em Phyton com foco no aprendizado de lógica de programação e resolução de problemas. Durante o desenvolvimento, foram utilizados conceitos como variáveis, condições. estruturas de repetição e funções, criando uma aplicação simples e funcional para colocar os conhecimentos em prática.
 **Tecnologias:** Python
 
 Contato
