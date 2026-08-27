@@ -10,7 +10,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em Gestao de Tecnologia
 -Trabalho bem em Equipe.
 -Busco transformar conhecimento em projetos práticos.
 
-## -Habilidades
+## Habilidades
 HTML
 CSS
 JavaScript
