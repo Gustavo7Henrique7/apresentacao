@@ -1,6 +1,8 @@
 ## apresentacao 
 Olá! Meu nome é **Gustavo**, e este é o meu README De Apresentação.
-Sou uma pessoa focada em aprender e desenvolver novas habilidades
+Sou um SDR(Representante de desenvolvimento de vendas) da empresa Web Automação Industrial.
+Uma pessoa focada em aprender e desenvolver novas habilidades.
+Atualmente, estou focado em aprimorar minhas habilidades em Gestao de Tecnologia da informação e sempre em busca de novos desafios!
 
 ## sobre mim
 -Focado em desenvolvimento e aprendizado continuo
