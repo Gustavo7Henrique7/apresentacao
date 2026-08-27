@@ -25,7 +25,7 @@ Contato
 
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:henrique.guguga07@gmail.com)
 
-[[![LinkedIn][[[([https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/gustavohenriquedomingues/))]](https://www.linkedin.com/in/gustavohenriquedomingues/)](https://www.linkedin.com/in/gustavohenriquedomingues/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seuperfil)]([https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/gustavohenriquedomingues/))
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/11995588676)](https://wa.me/11995588676)
 
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/seuperfil)]([https://dev.to/seuperfil](https://dev.to/gustavo7henrique7))
